@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nguyenhoangvuong/Shopee-react/static/css/main.f47fee3a.chunk.css",
+    "main.js": "/nguyenhoangvuong/Shopee-react/static/js/main.7a8c5490.chunk.js",
+    "main.js.map": "/nguyenhoangvuong/Shopee-react/static/js/main.7a8c5490.chunk.js.map",
+    "runtime-main.js": "/nguyenhoangvuong/Shopee-react/static/js/runtime-main.d1eea95a.js",
+    "runtime-main.js.map": "/nguyenhoangvuong/Shopee-react/static/js/runtime-main.d1eea95a.js.map",
+    "static/css/2.76217360.chunk.css": "/nguyenhoangvuong/Shopee-react/static/css/2.76217360.chunk.css",
+    "static/js/2.71dba302.chunk.js": "/nguyenhoangvuong/Shopee-react/static/js/2.71dba302.chunk.js",
+    "static/js/2.71dba302.chunk.js.map": "/nguyenhoangvuong/Shopee-react/static/js/2.71dba302.chunk.js.map",
+    "index.html": "/nguyenhoangvuong/Shopee-react/index.html",
+    "static/css/2.76217360.chunk.css.map": "/nguyenhoangvuong/Shopee-react/static/css/2.76217360.chunk.css.map",
+    "static/css/main.f47fee3a.chunk.css.map": "/nguyenhoangvuong/Shopee-react/static/css/main.f47fee3a.chunk.css.map",
+    "static/js/2.71dba302.chunk.js.LICENSE.txt": "/nguyenhoangvuong/Shopee-react/static/js/2.71dba302.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/nguyenhoangvuong/Shopee-react/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1eea95a.js",
+    "static/css/2.76217360.chunk.css",
+    "static/js/2.71dba302.chunk.js",
+    "static/css/main.f47fee3a.chunk.css",
+    "static/js/main.7a8c5490.chunk.js"
+  ]
+}
